@@ -4,7 +4,6 @@
 - 🎓 Currently studying Bs Software Engineering at University of Sargodha  
 - I am a Front-End Web Developer and UI/UX designer.
 
-- 
 ## Skills  
 - *Programming Languages:* JavaScript, C++  
 - *Web Development:* HTML, CSS, JavaScript, Bootstrap, Tailwind CSS  
