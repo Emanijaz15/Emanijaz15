@@ -2,11 +2,11 @@
 
 ## About Me
 - 🎓 Currently studying Bs Software Engineering at University of Sargodha  
-- I am a Front-End Web Developer and UI/UX designer.
+- I am a Front-End Web Developer, Python Developer and UI/UX designer.
 
 ## Skills  
-- *Programming Languages:* JavaScript, C++  
-- *Web Development:* HTML, CSS, JavaScript, Bootstrap, Tailwind CSS  
+- *Programming Languages:* JavaScript, C++  ,Python
+- *Web Development:* HTML, CSS, JavaScript, Bootstrap, Tailwind CSS  , React.js , Redux
 - *Tools:*  VS Code
 
 - ## Projects  
@@ -22,7 +22,7 @@ https://github.com/Emanijaz15/Calculator.git
 
 
 ## Connect with Me  
-- [LinkedIn] https://www.linkedin.com/in/eman-ijaz-116566330/ 
+- [LinkedIn] www.linkedin.com/in/eman-ijaz-960017370 
 - [GitHub] (https://github.com/Emanijaz15)
 
 
