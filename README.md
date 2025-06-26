@@ -15,6 +15,11 @@ This weather app leverages a weather API to provide real-time weather informatio
 🔗 [Repository Link]
 source code https://github.com/Emanijaz15/Weather-App.git
 
+### Hospital Management System
+The Hospital Management System is a lightweight, file-based Python application that streamlines the management of patient records. Designed with simplicity and functionality in mind, this CLI-based tool empowers healthcare staff to add, view, and search patient data with ease — all without the need for a database or internet connection.
+🔗 [Repository Link]
+https://github.com/Emanijaz15/Hospital-Management-system.git
+
 ### Calculator Web App
 A simple calculator built with HTML, CSS, and JavaScript. It supports basic arithmetic operations and features a clean, responsive design. The app showcases my skills in front-end development and JavaScript functionality.
 🔗 [Repository Link]
