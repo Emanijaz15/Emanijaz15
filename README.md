@@ -1,34 +1,31 @@
-## Hi there, I'm Eman Ijaz! 👋
+<h1 align="center">Hi 👋, I'm Eman Ijaz</h1>
+<h3 align="center">A passionate Python Developer from Pakistan</h3>
 
-## About Me
-- 🎓 Currently studying Bs Software Engineering at University of Sargodha  
-- I am a Front-End Web Developer, Python Developer and UI/UX designer.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emanijaz15&label=Profile%20views&color=0e75b6&style=flat" alt="emanijaz15" /> </p>
 
-## Skills  
-- *Programming Languages:* JavaScript, C++  ,Python
-- *Web Development:* HTML, CSS, JavaScript, Bootstrap, Tailwind CSS  , React.js , Redux
-- *Tools:*  VS Code
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanijaz15" alt="emanijaz15" /></a> </p>
 
-- ## Projects  
-### Virtual AI Assistant
-The Virtual AI Assistant is a Python-based voice-activated or text-based application that performs a variety of tasks using natural language commands. It simulates a real-life personal assistant, allowing users to interact through spoken or typed input to get help with everyday digital tasks—like opening apps,playing music, reading news etc.  
-🔗 [Repository Link]
-source code https://github.com/Emanijaz15/Virtual-AI-Assistant.git
+- 🌱 I’m currently learning **Pandas , NumPy**
 
-### Hospital Management System
-The Hospital Management System is a lightweight, file-based Python application that streamlines the management of patient records. Designed with simplicity and functionality in mind, this CLI-based tool empowers healthcare staff to add, view, and search patient data with ease — all without the need for a database or internet connection.
-🔗 [Repository Link]
-https://github.com/Emanijaz15/Hospital-Management-system.git
+- 👯 I’m looking to collaborate on **Python Projects**
 
-### Auto Reply AI ChatBot
-The WhatsApp Auto-Reply Bot is a simple Python-based automation tool that reads incoming messages from WhatsApp Web and sends automatic replies. It uses GUI automation libraries to detect and respond to messages in real time. The bot mimics human-like interaction by copying the received message and replying with a predefined or mirrored response.
-🔗 [Repository Link]
-https://github.com/Emanijaz15/Auto-Reply-AI-chatBot.git
+- 🤝 I’m looking for help with **Data Science and Artificial Intelligence**
 
+- 💬 Ask me about **Python**
 
-## Connect with Me  
-- [LinkedIn] www.linkedin.com/in/eman-ijaz-960017370 
-- [GitHub] (https://github.com/Emanijaz15)
+- 📫 How to reach me **eijaz7357@gmail.com**
 
+- ⚡ Fun fact **Dark mode is my natural habitat.**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/eman-ijaz-960017370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/eman-ijaz-960017370" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/eman_engineer786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/eman_engineer786" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanijaz15&show_icons=true&locale=en&layout=compact" alt="emanijaz15" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanijaz15&show_icons=true&locale=en" alt="emanijaz15" /></p>
