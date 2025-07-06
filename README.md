@@ -10,20 +10,20 @@
 - *Tools:*  VS Code
 
 - ## Projects  
-### Real-Time Weather Data
-This weather app leverages a weather API to provide real-time weather information, allowing users to check current conditions, forecasts, and weather data for any location around the globe. With an easy-to-use interface.  
+### Virtual AI Assistant
+The Virtual AI Assistant is a Python-based voice-activated or text-based application that performs a variety of tasks using natural language commands. It simulates a real-life personal assistant, allowing users to interact through spoken or typed input to get help with everyday digital tasks—like opening apps,playing music, reading news etc.  
 🔗 [Repository Link]
-source code https://github.com/Emanijaz15/Weather-App.git
+source code https://github.com/Emanijaz15/Virtual-AI-Assistant.git
 
 ### Hospital Management System
 The Hospital Management System is a lightweight, file-based Python application that streamlines the management of patient records. Designed with simplicity and functionality in mind, this CLI-based tool empowers healthcare staff to add, view, and search patient data with ease — all without the need for a database or internet connection.
 🔗 [Repository Link]
 https://github.com/Emanijaz15/Hospital-Management-system.git
 
-### Calculator Web App
-A simple calculator built with HTML, CSS, and JavaScript. It supports basic arithmetic operations and features a clean, responsive design. The app showcases my skills in front-end development and JavaScript functionality.
+### Auto Reply AI ChatBot
+The WhatsApp Auto-Reply Bot is a simple Python-based automation tool that reads incoming messages from WhatsApp Web and sends automatic replies. It uses GUI automation libraries to detect and respond to messages in real time. The bot mimics human-like interaction by copying the received message and replying with a predefined or mirrored response.
 🔗 [Repository Link]
-https://github.com/Emanijaz15/Calculator.git
+https://github.com/Emanijaz15/Auto-Reply-AI-chatBot.git
 
 
 ## Connect with Me  
